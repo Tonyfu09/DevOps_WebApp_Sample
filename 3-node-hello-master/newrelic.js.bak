@@ -13,7 +13,7 @@ exports.config = {
   /**
    * Your New Relic license key.
    */
-  license_key: '2fd5a53bd9d440360b2ce68150d5bc375596NRAL',
+  license_key: '2fd5a***NRAL',
 
   /**
    * Security Configurations
